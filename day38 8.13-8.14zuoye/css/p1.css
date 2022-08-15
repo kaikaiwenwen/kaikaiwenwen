@@ -1,0 +1,196 @@
+
+.nav{
+    width: 100%;
+    height: 64px;
+    background-color: pink;
+}
+.tishi{
+    width: 100%;
+    height: 122px;
+    background-color: skyblue;
+    padding: 12px 24px 16px 24px;
+    
+}
+.xia{
+    width: 100%;
+    height: 100%;
+    margin-top: 24px;
+    padding: 0px 24px;
+}
+.form_cader{
+    width: 100%;
+    height: 312px;
+    margin-bottom: 24px;
+}
+
+/*表单的头部*/
+.form_header{
+    width: 100%;
+    height: 57px;
+    padding: 0px 24px;
+    border-bottom: 1px solid #e8e8e8;
+}
+.title{
+    width: 100%;
+    height: 100%;
+    padding: 16px 0px;
+    font-size: 16px;
+    font-weight: 500;
+}
+/*form表单的身体部分*/
+.form_card_body{
+    width: 100%;
+    height: 256px;
+    padding: 24px 24px;
+}
+.form_t{
+    width: 100%;
+    height: 104px;
+}
+.form_t div{
+    float: left;
+}
+/*右侧输入框部分*/
+.le{
+    width: 25%;
+    height: 104px;
+    padding: 0px 8px;
+}
+.to{
+    width:100%;
+    height: 40px;
+}
+.shen{
+    height: 64px;
+    width: 100%;
+}
+/*第一个input*/
+.inp1{
+    width: 100%;
+    height: 32px;
+    padding: 4px 11px;
+}
+/*中间的框*/
+.con{
+    width: 30%;
+    height: 104px;
+    padding: 0px 8px;
+    margin-left: 46px;
+}
+.con_le{
+    width: 63px;
+    height: 32px;
+    padding: 0px 11px;
+    border: 1px solid;
+    display: inline-block;
+    float: left;
+}
+.con_re{
+    width: 53px;
+    height: 32px;
+    padding: 0px 11px;
+    border: 1px solid;
+    display: inline-block;
+    float: left;
+
+}
+.inp2{
+    width: 65%;
+    height: 32px;
+    float: left;
+}
+
+/*第三个框*/
+.ree{
+    width: 37.5%;
+    height: 104px;
+    padding: 0px 8px;
+    margin-left: 42px;
+}
+
+.ree_shen{
+    height: 100%;
+}
+.inp3{
+    width: 100%;
+    height: 32px;
+    border-radius: 0px;
+}
+.inp3 option{
+    height: 32px;
+    width: 100%;
+    border-radius: 0px;
+    /* position: absolute; */
+}
+
+/*第一个的下面的第二个的第二个输入框*/
+.inp5{
+    width: 100%;
+    height: 32px;
+}
+
+/*第二个表单的第二个框*/
+.inp6{
+    width: 100%;
+    height: 32px;
+}
+
+/*表格部分*/
+.form_table{
+    width: 100%;
+    height: 378px;
+    padding: 24px;
+}
+.tab{
+    width: 100%;
+    height: 54px;
+    border: 1px solid;
+}
+.tab tr{
+    height: 54px;
+    width: 100%;
+}
+.tab th{
+    padding: 16px;
+    /* display: inline-block; */
+    /* height: 54px; */
+    /* border: 1px solid; */
+}
+.tab td{
+    /* border: 1px solid; */
+    padding: 16px;
+
+}
+.zeng{
+    width: 100%;
+    height: 32px;
+    margin-top: 16px;
+}
+
+/* .td1{
+    width: 20%;
+}
+.td2{
+    width: 40%;
+} */
+
+.tijiao{
+    width: 100%;
+    height: 56px;
+    padding: 0px 24px;
+    position: fixed;
+    bottom: 10px;
+}
+.tij{
+    width: 40px;
+    height: 40px;
+  position: absolute;
+   left: 60%;
+    margin-top: 5px;
+    background-color: aqua;
+    
+}
+
+.red{
+    border: 1px solid red;
+}
